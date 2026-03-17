@@ -35,7 +35,7 @@ Before running this project, make sure you have Docker and Docker Compose instal
 
   1. Clone the repository to your local machine: 
        ```
-      git clone https://github.com/JesusdelCas99/Real-Time-Data-Engineering-Pipeline.git
+      git clone https://github.com/Ranga-Swamy-Chakali/Data-Streaming-with-opensource-tools-.git
       ```
   2. Launch Docker Desktop and execute the Docker Compose project configuration file:
       ```
